@@ -1,0 +1,4 @@
+flask
+psycopg2-binary
+Flask-SQLAlchemy
+PyJWT==1.7.1
